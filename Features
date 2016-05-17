@@ -1,0 +1,23 @@
+1. First functionality should be able to build a java project from the current directory or by giving a gzip of the file, set where the jar file is saved
+
+- support for testing (junit and testng)
+- creates a runnable jar (highest main method wins)
+- downloads all jars for the files
+- imports are not needed in the java files
+- jar is saved in format: name_version_timestamp.jar
+- Add var as parent of primitives and objects
+- add multiple inheritance (i might have thought about it wrongly, may not actually be possible but idk)
+- license management, be aware of what licenses are used for each jar/library used
+- add async to function and code snippets (run code inside own thread)
+- add c# property like properties
+- only work on specifically annotated files, otherwise build them as vanilla java
+- Make string concatenation (string + string) use String.format
+- Allow annotations for specific library and version (Globally in config, per file, per function, or per line)
+- bring in necessary jars on demand, take latest over oldest in requirements
+  -- Global: Java System classes
+  -- Local: Locally defined classes
+  -- External-Local: jars made from code on local machine, need to build as well
+  -- External: Third party library to download
+- Config is a json file
+  -- name.config
+  -- Contains name or project, version, and global annotations of dependencies
