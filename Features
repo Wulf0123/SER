@@ -1,3 +1,8 @@
+Ok need to rename. This is really three things (so we need 4 names overall right now, the name of the entire thing plus a name for each of the components. My vote is on Bob for Bob the Builder :P):
+1: Builder - Takes the raw (vanilla) java code and builds it with the jar directory to package a new runnable jar file
+2: Compiler - Takes the new java code (with all our cool tricks and treats) and transforms it into vanilla java code to be built by the Builder portion. Also identifies missing libraries, and which ones to be downloaded/used
+3: Repo manager - Uses remote and local repositories, as well as specified local jar directories and code and packages it all up into the jar directory for building. 
+
 1. First functionality should be able to build a java project from the current directory or by giving a gzip of the file, set where the jar file is saved
 1.2. When building java files maintain checksum of files, if no change has occured do not rebuild class file. unless specified by command line
 - support for testing (junit and testng)
