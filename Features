@@ -1,5 +1,5 @@
 1. First functionality should be able to build a java project from the current directory or by giving a gzip of the file, set where the jar file is saved
-
+1.2. When building java files maintain checksum of files, if no change has occured do not rebuild class file. unless specified by command line
 - support for testing (junit and testng)
 - creates a runnable jar (highest main method wins)
 - downloads all jars for the files
