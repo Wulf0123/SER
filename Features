@@ -26,3 +26,5 @@ Ok need to rename. This is really three things (so we need 4 names overall right
 - Config is a json file
   -- name.config
   -- Contains name or project, version, and global annotations of dependencies
+- tag code as production, test, or dev. set your build, filters out code (set method/variable accessors in a similar fashion
+- come with jdk (use that to run the tri-package), can also specify the jdk and use it 
