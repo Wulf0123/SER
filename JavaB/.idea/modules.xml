@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/SER/JavaB/Builder_Bob/Builder_Bob.iml" filepath="$USER_HOME$/Documents/GitHub/SER/JavaB/Builder_Bob/Builder_Bob.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/SER/JavaB/Compiler_Cat/Compiler_Cat.iml" filepath="$USER_HOME$/Documents/GitHub/SER/JavaB/Compiler_Cat/Compiler_Cat.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/SER/JavaB/JavaB.iml" filepath="$USER_HOME$/Documents/GitHub/SER/JavaB/JavaB.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/SER/JavaB/JavaB_Utils.iml" filepath="$USER_HOME$/Documents/GitHub/SER/JavaB/JavaB_Utils.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/SER/JavaB/Repo_Dog/Repo_Dog.iml" filepath="$USER_HOME$/Documents/GitHub/SER/JavaB/Repo_Dog/Repo_Dog.iml" />
+    </modules>
+  </component>
+</project>
