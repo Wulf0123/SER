@@ -1,8 +1,8 @@
-package com.ser.builder;
+package com.ser.compiler;
 
 /**
  * Created by Brad
  * on 5/18/2016.
  */
-public class Bob {
+public class Cat {
 }
